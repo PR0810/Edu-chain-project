@@ -5,6 +5,8 @@ GamifiedQA is a decentralized platform for asking and answering questions in exc
 
 ## Contract Address
 0x2280Cc464276df86954B588Ede208a8C3930C370
+![image](https://github.com/user-attachments/assets/8b3ca952-e24f-454d-9b3b-fc246882d053)
+
 
 ## Key Features
 - **Ask Questions**: Users can ask questions with a reward in ERC20 tokens.
